@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+    background-color: white;
+    border-color:darkviolet;
+}
+#myButton
+{
+    color: aquamarine;
+    border-color: coral;
+    font-family: Broadway;
+    background-color: blueviolet;
+    border-style: solid;
+}
